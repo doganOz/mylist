@@ -1,0 +1,3 @@
+[submodule "googlesheets"]
+	path = googlesheets
+	url = git@github.com:doganOz/googlesheets.git
